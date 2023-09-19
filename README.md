@@ -1,6 +1,6 @@
 # node - Notas
 
-Webser en Node con Express - HTTP - HBS
+Webserver en Node con Express - HTTP - HBS
 
 ```
 Options:
